@@ -66,7 +66,7 @@
 ## 🏆 Trophy
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=steve1204-bit&theme=tokyonight&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=깃허브아이디&theme=tokyonight&row=1&column=6)
 
 </div>
 
